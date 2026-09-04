@@ -2,6 +2,7 @@
 
 An AI-based object detection and tracking application built using Python, YOLO, OpenCV and Streamlit.
 
+
 ## Features
 
 - Object detection from images

@@ -1,6 +1,5 @@
 from ultralytics import YOLO
 
-
 class ObjectTracker:
 
     def __init__(self, model_name="yolo11n.pt"):

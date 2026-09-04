@@ -61,5 +61,4 @@ def enhance_night_image(image):
         enhanced_lab,
         cv2.COLOR_LAB2BGR
     )
-
     return enhanced
